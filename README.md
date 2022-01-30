@@ -4,7 +4,7 @@
 
 [![m8](https://img.shields.io/badge/Contributors-Me-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/moeac/MoesTeamGenerator)
+![GitHub last commit](https://img.shields.io/github/last-commit/moeac/MoesNoteTaker)
 
 ## **Contents**
 - [Description](#description)
@@ -26,6 +26,7 @@ You write a note and save it. If you dont like the note you can delete it with a
 - HTML, CSS, JavaScript, jQuery
 - Bootstrap, FontAwesome
 - Node.js
+- Heroku
 - Computer
 
 ## **The Recipe**
