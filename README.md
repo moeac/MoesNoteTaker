@@ -1,6 +1,5 @@
-# MoesNoteTaker
 
-# **<p align="center"> MoesTeamGenerator </p>**
+# **<p align="center"> MoesNoteTaker </p>**
 
 [![m8](https://img.shields.io/badge/Contributors-Me-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
